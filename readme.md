@@ -33,7 +33,7 @@ play it online at [zaccnz.github.io/solitaire](https://zaccnz.github.io/solitair
 
 this project uses CMake.  to get started:  
 ```
-git clone https://github.com/zaccnz/solitaire --recurse-submodules
+git clone https://github.com/danadrianmirea/solitaire --recurse-submodules
 cd solitaire
 mkdir build && cd build
 cmake ..
